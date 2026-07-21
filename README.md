@@ -1,6 +1,6 @@
 # Análisis de discurso político computacional — AMLO vs. Petro
 
-Pipeline de análisis de discurso computacional aplicado a discursos de campaña de Andrés Manuel López Obrador (México, 2018) y Gustavo Petro (Colombia, 2021–2022), desarrollado como parte de la tesis de maestría *"Neoliberalismo, desgaste de la representación y ascenso electoral de alternativas en México y Colombia (1990–2022)"* (FSoc-UBA, dir. Ana Belén Mercado).
+Pipeline de análisis de discurso computacional aplicado a discursos de campaña de Andrés Manuel López Obrador (México, 2018) y Gustavo Petro (Colombia, 2021–2022), desarrollado como parte de la tesis de maestría *"Neoliberalismo, desgaste de la representación y ascenso electoral de alternativas en México y Colombia (1990–2022)"* (FSOC UBA, dir. Ana Belén Mercado).
 
 **[→ Ver el notebook con la documentación metodológica completa y los resultados](notebooks/analysis.ipynb)** — GitHub lo renderiza directamente en el navegador, con gráficos incluidos.
 
