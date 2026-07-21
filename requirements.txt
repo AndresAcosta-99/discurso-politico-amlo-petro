@@ -1,0 +1,20 @@
+pandas>=2.0
+numpy>=1.24
+spacy>=3.7
+matplotlib>=3.7
+seaborn>=0.13
+python-docx>=1.1
+
+# Para correr/regenerar el notebook
+jupyter>=1.0
+nbformat>=5.9
+nbclient>=0.9
+
+# Modelo de spaCy en español — se instala aparte:
+# python -m spacy download es_core_news_lg
+
+# Solo si se quiere reproducir la exploración de BERTopic (explorations/analisis_tematico.py)
+# bertopic>=0.16
+# umap-learn>=0.5
+# hdbscan>=0.8
+# scikit-learn>=1.3

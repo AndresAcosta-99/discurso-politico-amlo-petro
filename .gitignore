@@ -1,0 +1,24 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs regenerables del pipeline (se recrean corriendo scripts/main.py)
+matrices_finales_tesis/
+reportes_retorica/
+
+# Datos intermedios grandes — ver nota en README sobre qué datos sí versionar
+dataset_textos_extraidos.csv
+dataset_textos_limpios.csv
+
+# SO
+.DS_Store
+Thumbs.db
